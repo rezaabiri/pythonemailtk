@@ -5,7 +5,7 @@ import smtplib
 
 root = Tk()
 
-root.title("Send Informations")
+root.title("Send email")
 root.geometry("475x240+450+260")
 root.iconbitmap(r'email.ico')
 root.resizable(0, 0)
